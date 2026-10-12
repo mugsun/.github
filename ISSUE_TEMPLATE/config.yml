@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 文档站
+    url: https://docs.mugsun.com/
+    about: 使用与部署问题请先查阅文档
+  - name: 安全漏洞（勿公开开 Issue）
+    url: https://github.com/mugsun/.github/blob/main/SECURITY.md
+    about: 按 SECURITY.md 私密报告
