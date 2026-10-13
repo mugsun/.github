@@ -13,3 +13,5 @@
 | [ISSUE_TEMPLATE/](./ISSUE_TEMPLATE/) | Bug / 功能建议 Issue 模板 |
 
 文档站点：[docs.mugsun.com](https://docs.mugsun.com/)
+
+© 2026 北京定旭晨 / mugsun
