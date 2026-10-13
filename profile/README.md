@@ -14,7 +14,7 @@
 | PC 端 | [mugsun-pc](https://github.com/mugsun/mugsun-pc) | 管理前端，Vue 3 + TypeScript + Vite + Element Plus |
 | 移动端 | [mugsun-app](https://github.com/mugsun/mugsun-app) | uni-app x：Android / iOS / 鸿蒙 / 小程序 |
 | 埋点 | [mugsun-track](https://github.com/mugsun/mugsun-track) | Web 行为埋点 SDK，插件化内核 |
-| 组件库 | mugsun-uniappx-ui（私有） | uni-app x 组件库，`ms-` 前缀 |
+| 组件库 | mugsun-uniappx-ui（商业版） | uni-app x 组件库，`ms-` 前缀；源码不公开，[文档开放](https://docs.mugsun.com/uniappx/) |
 | 移动 SDK | mugsun-uniappx-sdk（私有） | uni-app x / UTS 能力仓 |
 | 文档 | [mugsun-docs](https://github.com/mugsun/mugsun-docs) | 文档站源码（VitePress） |
 
