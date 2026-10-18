@@ -14,9 +14,11 @@
 | PC 端 | [mugsun-pc](https://github.com/mugsun/mugsun-pc) | 管理前端，Vue 3 + TypeScript + Vite + Element Plus |
 | 移动端 | [mugsun-app](https://github.com/mugsun/mugsun-app) | uni-app x：Android / iOS / 鸿蒙 / 小程序 |
 | 埋点 | [mugsun-track](https://github.com/mugsun/mugsun-track) | Web 行为埋点 SDK，插件化内核 |
-| 组件库 | mugsun-uniappx-ui（商业版） | uni-app x 组件库，`ms-` 前缀；源码不公开，[文档开放](https://docs.mugsun.com/uniappx/) |
-| 移动 SDK | mugsun-uniappx-sdk（私有） | uni-app x / UTS 能力仓 |
+| 组件库 | mugsun-uniappx-ui | uni-app x 组件库，`ms-` 前缀；源码仓库暂未公开，[文档开放](https://docs.mugsun.com/uniappx/) |
+| 移动 SDK | mugsun-uniappx-sdk | uni-app x / UTS 能力仓；私有仓库 |
 | 文档 | [mugsun-docs](https://github.com/mugsun/mugsun-docs) | 文档站源码（VitePress） |
+
+上表各仓库均采用 MIT 许可，以各仓 `LICENSE` 为准。
 
 贡献指南、安全披露与 Issue / PR 模板见 [mugsun/.github](https://github.com/mugsun/.github)。
 
