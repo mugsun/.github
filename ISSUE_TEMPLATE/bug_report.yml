@@ -59,10 +59,14 @@ body:
   - type: textarea
     id: env
     attributes:
-      label: 环境
-      description: OS、JDK / Node、浏览器、部署方式等
+      label: 系统
+      description: 请写清楚 OS（含版本）、JDK / Node 版本、浏览器（含版本），部署方式可一并写上
+      placeholder: |
+        OS：macOS 15.1
+        JDK / Node：JDK 21 / Node 22
+        浏览器：Chrome 130
     validations:
-      required: false
+      required: true
   - type: textarea
     id: logs
     attributes:
